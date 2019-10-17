@@ -1,8 +1,5 @@
 # scores-and-playlists
 
-The file 'Average results per volunteer (with Transfer Learning)' contains the average results per volunteer using the pre-trained network. Theses are the results we obtained with a initial learning rate of 0.05, which performed the best.
+The files 'Average results per volunteer' contain the average results per volunteer using the pre-trained network. Theses are the results we obtained with a initial learning rate which performed the best among all users: 0.05 with or without Transfer Learning.
 
-
-The file 'Average results per volunteer (without Transfer Learning)' contains the average results per volunteer by training the network from scratch. Theses are the results we obtained with a initial learning rate of 0.05, which performed the best.
-
-
+The files 'Cross Validation' contain the different scores for different learning rates, with all cross validation folds for different users.
